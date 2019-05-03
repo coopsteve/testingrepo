@@ -1,0 +1,1 @@
+git clone [repodirectory or git url] (optional)[name of my choice -this will create a new folder with that name]
